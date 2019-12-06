@@ -1,4 +1,4 @@
-https://github.com/Pavmois/pavmois.github.io/releases
+https://pavmois.github.io/
 
 
 Валидация с помощью регулярных выражений
